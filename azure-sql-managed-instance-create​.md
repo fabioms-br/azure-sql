@@ -1,4 +1,4 @@
-##Como Criar e Quanto Custa o Azure SQL Managed Instance
+## Como Criar e Quanto Custa o Azure SQL Managed Instance
 
 <img src="https://fabioms.com.br//uploads/youtube/cqVb3H-nNQ4.png" alt="Como Criar e Quanto Custa o Azure SQL Managed Instance" title="Azure SQL (Database, Pools, Serverless, Hyperscale, Managed Instance, Virtual Machines)" width="320"/>
 
