@@ -1,5 +1,7 @@
 ##Migrar esquema e dados do SQL Server para Azure SQL
+
 <img src="https://fabioms.com.br//uploads/youtube/TEiATwLhF8A.png" alt="Migrar esquema e dados do SQL Server para Azure SQL" title="Azure SQL (Database, Pools, Serverless, Hyperscale, Managed Instance, Virtual Machines)" width="320"/>
+
 Apresentamos nesse vídeo como migrar a estrutura comparando o esquema e os dados existentes do SQL Server On-Premises (Servidor Local) para o Banco de Dados SQL do Azure (na Nuvem) utilizando o SQL Server Data Tools (SSDT) no Microsoft Visual Studio. 
 
 Iremos conhecer:
