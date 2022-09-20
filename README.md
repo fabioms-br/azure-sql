@@ -2,6 +2,7 @@
 Keywords: Data Platform, Azure SQL Database, Azure SQL, SQL Managed Instance, SQL Database, Database Azure SQL, SQL, managed SQL database, Managed Instance SQL, Azure Virtual Machines, Database and SQL, Azure, Managed Instance, SQL Database Single, Azure SQL Edge
 
 ### [Criar Banco de Dados Azure SQL](azure-sql-criar-banco-dados.md ':ignore')
+<a href="azure-sql-criar-banco-dados.md">Inicio</a>
 Aprenda como criar o Banco de dados SQL do Azure, plataforma como serviço da nuvem da Microsoft possibiltando a redução dos custos de infraestrutura e uma migração rápida do seu banco de dados local (on-premisses)
 
 ### [Migrar dados do SQL Server para Azure Sql Dabatase](../sql-server-migrar-dados-azure-sql.md)
