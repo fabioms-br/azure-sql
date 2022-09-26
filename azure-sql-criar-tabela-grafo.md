@@ -12,7 +12,7 @@ Iremos conhecer as técnicas:
 🔹Consultar os registros das tabelas (SELECT, MULTI TABLES)  
 🔹Filtrar registros por condicional de nós e bordas (WHERE, MATCH);  
 🔹Obter dados do banco de dados no Power BI (GET DATA, SQL SERVER, CONNECTIVITY MODE, DIRECTQUERY)  
-🔹Criar exibição no banco de dados (CREATE VIEW, CONCAT)
+🔹Criar exibição no banco de dados (CREATE VIEW, CONCAT)  
 🔹Obter novo visual do Power BI (GET VISUALS, FORCE-DIRECTED GRAPH);  
 🔹Formatar Visual de exibição dos relacionamentos entre os nós (LINKS, ARROWS, COLOR, LABEL)  
 
