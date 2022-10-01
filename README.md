@@ -25,4 +25,4 @@ Apresentamos nesse vídeo a função DAX NETWORKDAYS que cálcula a quantidade d
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-dax-funcao-networkdays](http://www.fabioms.com.br/?url=azure-sql-dax-funcao-networkdays)
 ## [7. Criar Tabela de Grafo no Azure SQL | SQL Server ](/azure-sql-criar-tabela-grafo.md)
 Apresentamos nesse vídeo como criar tabela de Grafo no Azure SQL/SQL Server para disponibilizar estrutura de relacionamentos complexos de muitos para muitos e apresentar o resultado no Power BI
-> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-criar-tabela-grafo](http://www.fabioms.com.br/?url=azure-sql-criar-tabela-grafo)
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-criar-tabela-grafo(http://www.fabioms.com.br/?url=azure-sql-criar-tabela-grafo)
