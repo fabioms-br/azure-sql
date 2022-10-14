@@ -28,7 +28,7 @@ Aprenderemos nesse vídeo como criar, e quanto custa o recurso Azure SQL Managed
 ## [6. Obter Função NETWORKDAYS no DAX e Azure SQL](/azure-sql-dax-funcao-networkdays.md)
 Apresentamos nesse vídeo a função DAX NETWORKDAYS que cálcula a quantidade de dias úteis entre duas datas, e como criar uma função definida pelo usuário no Azure SQL que retorna o mesmo resultado.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-dax-funcao-networkdays](http://www.fabioms.com.br/?url=azure-sql-dax-funcao-networkdays)  
-Pasta "[/Azure-SQL-Database-Dax-Networkdays-Function/](/Azure-SQL-Database-Dax-Networkdays-Function/)"
+
 ## [7. Criar Tabela de Grafo no Azure SQL | SQL Server ](/azure-sql-criar-tabela-grafo.md)
 Apresentamos nesse vídeo como criar tabela de Grafo no Azure SQL/SQL Server para disponibilizar estrutura de relacionamentos complexos de muitos para muitos e apresentar o resultado no Power BI
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-criar-tabela-grafo](http://www.fabioms.com.br/?url=azure-sql-criar-tabela-grafo)  
