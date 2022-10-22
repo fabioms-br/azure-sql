@@ -1,4 +1,5 @@
 # Azure SQL  
+Aprender scripts de consulta e manipulação de dados no Azure SQL
 **Keywords:** Data Platform, Azure SQL Database, Azure SQL, SQL Managed Instance, SQL Database, Database Azure SQL, SQL, managed SQL database, Managed Instance SQL, Azure Virtual Machines, Database and SQL, Azure, Managed Instance, SQL Database Single, Azure SQL Edge  
 
 😉 Gostou do conteúdo? Inscreva-se também no canal: [http://www.fabioms.com.br/?url=youtube-subscribe](http://www.fabioms.com.br/?url=youtube-subscribe)
