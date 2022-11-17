@@ -16,13 +16,13 @@ Apresentamos nesse vídeo como migrar tabelas e os dados existentes no SQL Serve
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-migrar-dados-azure-sql](http://www.fabioms.com.br/?url=sql-server-migrar-dados-azure-sql)  
 
-## [3. Migrar esquema e dados do SQL Server para Azure SQL](/azure-sql-migrar-esquema-dados-sql-server.md)
-Apresentamos nesse vídeo como migrar a estrutura comparando o esquema e os dados existentes do SQL Server On-Premises (Servidor Local) para o Banco de Dados SQL do Azure (na Nuvem) utilizando o SQL Server Data Tools (SSDT) no Microsoft Visual Studio. 
-> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-migrar-esquema-dados-sql-server](http://www.fabioms.com.br/?url=azure-sql-migrar-esquema-dados-sql-server)  
-
-## [4. Criar Banco de Dados Azure SQL no Azure Data Studio](/azure-data-studio-criar-sql-database.md)
+## [3. Criar Banco de Dados Azure SQL no Azure Data Studio](/azure-data-studio-criar-sql-database.md)
 Apresentamos como podemos criar um novo Banco de dados Azure SQL utilizando Azure Data Studio, essa ferrament tem demonstrado ser um diferencial no gerenciamento do seu SQL Server na Nuvem.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-data-studio-criar-sql-database](http://www.fabioms.com.br/?url=azure-data-studio-criar-sql-database)  
+
+## [4. Migrar esquema e dados do SQL Server para Azure SQL](/azure-sql-migrar-esquema-dados-sql-server.md)
+Apresentamos nesse vídeo como migrar a estrutura comparando o esquema e os dados existentes do SQL Server On-Premises (Servidor Local) para o Banco de Dados SQL do Azure (na Nuvem) utilizando o SQL Server Data Tools (SSDT) no Microsoft Visual Studio. 
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-migrar-esquema-dados-sql-server](http://www.fabioms.com.br/?url=azure-sql-migrar-esquema-dados-sql-server)  
 
 ## [5. Como Criar e Quanto Custa o Azure SQL Managed Instance](/azure-sql-managed-instance-create.md)
 Aprenderemos nesse vídeo como criar, e quanto custa o recurso Azure SQL Managed Instance, disponibilizando um ambiente de banco de dados compatível com os recursos existentes no SQL Server On-premises diminuindo a gestão de mudanças e facilitando na migração para a nuvem.
