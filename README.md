@@ -39,3 +39,12 @@ Apresentamos nesse vídeo como criar tabela de Grafo no Azure SQL/SQL Server par
 ## [8. Obter Hierarquia de Valores no Azure SQL | SQL Server](/azure-sql-obter-hierarquia-valores.md)
 Apresentamos nesse vídeo como criar uma hierarquia organizacional da empresa utilizando o banco de dados SQL do Azure para exibir em visuais do Power BI
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-obter-hierarquia-valores](http://www.fabioms.com.br/?url=azure-sql-obter-hierarquia-valores)  
+
+## [9. Criar e Quanto Custa o Banco de Dados Azure SQL Pool Elástico](/azure-sql-criar-elastic-pool-database.md)
+Apresentamos nesse vídeo como criar e quanto custa o recurso Banco de Dados SQL do Azure com o Pool Elástico vinculado para otimizar o gerenciamento dos recursos de vários Bancos de Dados existentes.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-criar-elastic-pool-database](http://www.fabioms.com.br/?url=azure-sql-criar-elastic-pool-database)  
+
+## [10. Obter Anomalia de Valores no Azure SQL](/azure-sql-obter-anomalia-valores.md)
+Apresentamos nesse vídeo como identificar valores numéricos com anomalias do conjunto de dados que podem comprometer os indicadores do negócio.
+
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-obter-anomalia-valores](http://www.fabioms.com.br/?url=azure-sql-obter-anomalia-valores)  
