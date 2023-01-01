@@ -28,9 +28,6 @@ http://www.fabioms.com.br/?url=github
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe 
 
-✅ Código disponível no GitHub:
-http://www.fabioms.com.br/?url=github
-
 Contéudo relacionado:
 🔗Contar datas de registros diferentes no SQL Server
 http://www.fabioms.com.br/?url=sql-server-contar-dias-entre-datas
@@ -40,5 +37,10 @@ http://www.fabioms.com.br/?url=sql-server-ferias-conflito-entre-datas
 
 🔗Contar e Obter Dias Úteis no SQL Server 
 http://www.fabioms.com.br/?url=sql-server-contar-obter-dias-uteis
+
+🎁 Banco de Dados para Estudo SQL:
+Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
+Contribua e cite o projeto para fortalecê-lo!
+http://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplataform #azure #sql #dax #mvp #DicaDoFabinho

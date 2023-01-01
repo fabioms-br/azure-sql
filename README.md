@@ -48,3 +48,11 @@ Apresentamos nesse vídeo como criar e quanto custa o recurso Banco de Dados SQL
 Apresentamos nesse vídeo como identificar valores numéricos com anomalias do conjunto de dados que podem comprometer os indicadores do negócio.
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-obter-anomalia-valores](http://www.fabioms.com.br/?url=azure-sql-obter-anomalia-valores)  
+
+## [11. Ler Dados em Formato JSON no Azure SQL](/azure-sql-ler-formato-json.md)
+Apresentamos nesse vídeo como ler e manipular o conteúdo em formato JSON existente em tabela do banco de dados SQL do Azure.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-ler-formato-json](http://www.fabioms.com.br/?url=azure-sql-ler-formato-json)  
+
+## [12. Transformar Dados do Azure SQL utilizando Power Query do Power Automate](/power-automate-azure-sql-transformar-dados-power-query.md)
+Nesse vídeo iremos conhecer como transformar os dados em formato JSON existente no Banco de Dados SQL do Azure utilizando o Power Query do Power Automate.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=power-automate-azure-sql-transformar-dados-power-query](http://www.fabioms.com.br/?url=power-automate-azure-sql-transformar-dados-power-query)  
