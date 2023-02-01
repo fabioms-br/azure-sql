@@ -56,3 +56,15 @@ Apresentamos nesse vídeo como ler e manipular o conteúdo em formato JSON exist
 ## [12. Transformar Dados do Azure SQL utilizando Power Query do Power Automate](/power-automate-azure-sql-transformar-dados-power-query.md)
 Nesse vídeo iremos conhecer como transformar os dados em formato JSON existente no Banco de Dados SQL do Azure utilizando o Power Query do Power Automate.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=power-automate-azure-sql-transformar-dados-power-query](http://www.fabioms.com.br/?url=power-automate-azure-sql-transformar-dados-power-query)  
+
+## [13. Copiar Dados do Excel para Azure SQL no Power Automate](/power-automate-azure-sql-copiar-dados-excel.md)
+Apresentamos nesse vídeo como copiar os dados de planilha eletrônica do excel no onedrive para o banco de dados Azure SQL utilizando o Power Automate.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=power-automate-azure-sql-copiar-dados-excel](http://www.fabioms.com.br/?url=power-automate-azure-sql-copiar-dados-excel)  
+
+## [14. How to Get Azure Data Lake data using Dataflow in Power BI](/powerbi-dataflow-get-azure-data-lake-data.md)
+We present in this video how to get data from the Azure Data Lake resource by setting access permissions and creating a data stream in the Power BI Service to be consumed and published in the cloud.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=powerbi-dataflow-get-azure-data-lake-data](http://www.fabioms.com.br/?url=powerbi-dataflow-get-azure-data-lake-data)  
+
+## [15. Importar Banco de Dados com Arquivos BacPac no Azure SQL](/azure-sql-importar-banco-dados-bacpac.md)
+Apresentamos nesse vídeo como importar seu banco de dados SQL do Azure utilizando o arquivo Bacpac e o Azure Data Studio.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-importar-banco-dados-bacpac](http://www.fabioms.com.br/?url=azure-sql-importar-banco-dados-bacpac)  
