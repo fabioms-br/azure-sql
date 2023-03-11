@@ -20,27 +20,27 @@ Iremos conhecer as técnicas:
 🔹 Tabela de constantes e o uso da função (VALUES);  
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=azure-sql-dax-funcao-networkdays
+https://www.fabioms.com.br/?url=azure-sql-dax-funcao-networkdays
 
 📁 Arquivos disponíveis no GitHub:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe 
+https://www.fabioms.com.br/?url=youtube-subscribe 
 
 Contéudo relacionado:
 🔗Contar datas de registros diferentes no SQL Server
-http://www.fabioms.com.br/?url=sql-server-contar-dias-entre-datas
+https://www.fabioms.com.br/?url=sql-server-contar-dias-entre-datas
 
 🔗Identificar Conflitos entre Datas de Escala de Férias no SQL Server
-http://www.fabioms.com.br/?url=sql-server-ferias-conflito-entre-datas
+https://www.fabioms.com.br/?url=sql-server-ferias-conflito-entre-datas
 
 🔗Contar e Obter Dias Úteis no SQL Server 
-http://www.fabioms.com.br/?url=sql-server-contar-obter-dias-uteis
+https://www.fabioms.com.br/?url=sql-server-contar-obter-dias-uteis
 
 🎁 Banco de Dados para Estudo SQL:
 Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
 Contribua e cite o projeto para fortalecê-lo!
-http://www.fabioms.com.br/?url=github-estudados
+https://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplataform #azure #sql #dax #mvp #DicaDoFabinho

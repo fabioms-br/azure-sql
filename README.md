@@ -68,3 +68,23 @@ We present in this video how to get data from the Azure Data Lake resource by se
 ## [15. Importar Banco de Dados com Arquivos BacPac no Azure SQL](/azure-sql-importar-banco-dados-bacpac.md)
 Apresentamos nesse vídeo como importar seu banco de dados SQL do Azure utilizando o arquivo Bacpac e o Azure Data Studio.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-importar-banco-dados-bacpac](http://www.fabioms.com.br/?url=azure-sql-importar-banco-dados-bacpac)  
+
+## [16. Copiar Dados CSV da Internet no Power Automate para Azure SQL](/power-automate-azure-sql-copiar-dados-csv-internet.md)
+Como copiar dados de cotação do dolar da página do Banco Central do Brasil em formato CSV para o Banco de Dados Azure SQL, utilizando o Power Automate.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=power-automate-azure-sql-copiar-dados-csv-internet](http://www.fabioms.com.br/?url=power-automate-azure-sql-copiar-dados-csv-internet)  
+
+## [17. Como Migrar Dados do MySQL para Azure SQL Database](/azure-sql-assistente-migracao-mysql.md)
+Apresentamos nesse vídeo como migrar tabelas e os dados existentes no banco de dados MySQL, para o banco de dados SQL do Azure, utilizando a ferramenta Assistente de Migração do SQL Server para o MySQL
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-assistente-migracao-mysql](http://www.fabioms.com.br/?url=azure-sql-assistente-migracao-mysql)  
+
+## [18. Como remover texto duplicado no Azure SQL](/azure-sql-remover-texto-duplicado.md)
+Apresentamos nesse vídeo como remover o texto duplicado contido na coluna com valor agregado, convertendo as linhas em coluna utilizando o banco de dados SQL do Azure.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-remover-texto-duplicado](http://www.fabioms.com.br/?url=azure-sql-remover-texto-duplicado)  
+
+## [19. Como sincronizar esquema e dados entre bancos de dados no Azure SQL](/azure-sql-server-sincronizar-banco-de-dados.md)
+Como sincronizar o esquema e os dados das tabelas entre banco de dados SQL do Azure
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-server-sincronizar-banco-de-dados](http://www.fabioms.com.br/?url=azure-sql-server-sincronizar-banco-de-dados)  
+
+## [20. Como criar tabela externa no Azure SQL](/azure-sql-server-criar-tabela-externa.md)
+Apresentamos nesse vídeo como criar tabela externa no Azure SQL, possibiltando acessar os registros em um banco de dados disponível em outra instância SQL do Azure.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-server-criar-tabela-externa](http://www.fabioms.com.br/?url=azure-sql-server-criar-tabela-externa)  
