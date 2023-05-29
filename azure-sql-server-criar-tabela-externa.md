@@ -1,6 +1,6 @@
-## Como criar tabela externa no Azure SQL
+## Como criar tabela externa no Azure SQL  
 
-<img src="https://fabioms.com.br//uploads/youtube/jConSqNF6Qs.png" alt="Como criar tabela externa no Azure SQL" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/jConSqNF6Qs.png" alt="Como criar tabela externa no Azure SQL  " title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como criar tabela externa no Azure SQL, possibiltando acessar os registros em um banco de dados disponível em outra instância SQL do Azure.
 
@@ -27,4 +27,4 @@ http://www.fabioms.com.br/?url=github-estudados
 📁 Arquivos disponíveis no GitHub, não esquece de seguir:
 http://www.fabioms.com.br/?url=github
 
-#microsoft #dataplatform #azure #sql #server #database #mvp #dicadofabinho
+#microsoft #dataplatform #azure #sql #server #database #mvp #mvpbrasil #dicadofabinho

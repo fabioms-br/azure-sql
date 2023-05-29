@@ -1,6 +1,6 @@
-## Como remover texto duplicado no Azure SQL
+## Como remover texto duplicado no Azure SQL 
 
-<img src="https://fabioms.com.br//uploads/youtube/mkIEXpS718I.png" alt="Como remover texto duplicado no Azure SQL" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/mkIEXpS718I.png" alt="Como remover texto duplicado no Azure SQL " title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como remover o texto duplicado contido na coluna com valor agregado, convertendo as linhas em coluna utilizando o banco de dados SQL do Azure.
 
@@ -31,4 +31,4 @@ http://www.fabioms.com.br/?url=github
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe
 
-#microsoft #dataplatform #azure #sql #server #database #mvp #dicadofabinho
+#microsoft #dataplatform #azure #sql #server #database #mvp #dicadofabinho 

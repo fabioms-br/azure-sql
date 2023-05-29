@@ -1,6 +1,6 @@
-## Transformar Dados do Azure SQL utilizando Power Query do Power Automate
+## #062 Transformar Dados do Azure SQL utilizando Power Query do Power Automate
 
-<img src="https://fabioms.com.br//uploads/youtube/hSqRwbWHbJg.png" alt="Transformar Dados do Azure SQL utilizando Power Query do Power Automate" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/daily-posts/Slide62.mp4" alt="#062 Transformar Dados do Azure SQL utilizando Power Query do Power Automate" title="Azure SQL" width="320"/>
 
 Nesse vídeo iremos conhecer como transformar os dados em formato JSON existente no Banco de Dados SQL do Azure utilizando o Power Query do Power Automate.
 
@@ -9,7 +9,7 @@ Iremos conhecer as técnicas:
 🔹Adicionar etapa Transformação de Dados Power Query (SQL SERVER CONNECTOR, TRANSFORM DATA, POWER QUERY);  
 🔹Escolher os dados para tranformação (CHOOSE DATA, DATABASE, TABLE);  
 🔹Etapas aplicadas, Dobragem de consultas, e Script SQL (QUERY FOLDING, VIEW DATA SOURCE QUERY);  
-🔹Converter Texto em formato JSON em registros (TRANSFORM COLUMN, TEXT TRANSFORMS, JSON);  
+🔹Converter Texto em formato JSON para registros (TRANSFORM COLUMN, TEXT TRANSFORMS, JSON);  
 🔹Visualizar diagrama de etapas (DIAGRAM VIEW);  
 🔹Inserir dados no Banco de Dados SQL do Azure (SQL SERVER, INSERT ROW, DYNAMIC CONTENT);  
 🔹Consultar resultado em formato Tabular (SQL SERVER, SELECT).

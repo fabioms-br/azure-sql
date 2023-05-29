@@ -1,6 +1,6 @@
-## Criar Tabela de Grafo no Azure SQL | SQL Server 
+## #065 Como criar Tabela de Grafo no Azure SQL | SQL Server 
 
-<img src="https://fabioms.com.br//uploads/youtube/YDpJKI3iNBo.png" alt="Criar Tabela de Grafo no Azure SQL | SQL Server " title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/daily-posts/Slide65.mp4" alt="#065 Como criar Tabela de Grafo no Azure SQL | SQL Server " title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como criar tabela de Grafo no Azure SQL/SQL Server para disponibilizar estrutura de relacionamentos complexos de muitos para muitos e apresentar o resultado no Power BI
 

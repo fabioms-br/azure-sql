@@ -1,12 +1,10 @@
-## Copiar Dados CSV da Internet no Power Automate para Azure SQL
+## Copiar Dados CSV da Internet no Power Automate para Azure SQL 
 
-<img src="https://fabioms.com.br//uploads/youtube/4OBypbM5WC0.png" alt="Copiar Dados CSV da Internet no Power Automate para Azure SQL" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/4OBypbM5WC0.png" alt="Copiar Dados CSV da Internet no Power Automate para Azure SQL " title="Azure SQL" width="320"/>
 
-Nesse vídeo iremos conhecer como copiar dados de cotação do dolar da página do Banco Central do Brasil em formato CSV para o Banco de Dados Azure SQL, utilizando o Power Automate.
+Nesse vídeo iremos conhecer como copiar dados de cotação do dolar da página do Banco Central do Brasil em formato CSV para o Banco de Dados Azure SQL, utilizando o Power Automate. 
 
-🔉Estou utilizando o recurso de audio do Azure Cognitive Services, pois ainda estou me recuperando da cirurgia que fiz recentemente.
-
-😍Mas não se preocupe, essa situação é temporária, espero que goste do conteúdo, desde já agradeço o carinho.
+🔉Utilizei o recurso de audio do Azure Cognitive Services, pois estava me recuperando de cirurgia que fiz.
 
 👍Deixe seu Like para valorizar.
 
