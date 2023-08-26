@@ -1,6 +1,6 @@
-## #068 Como obter hierarquia de valores no Azure SQL | SQL Server
+## Como obter hierarquia de valores no Azure SQL | SQL Server
 
-<img src="https://fabioms.com.br//uploads/daily-posts/Slide68.mp4" alt="#068 Como obter hierarquia de valores no Azure SQL | SQL Server" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide90.png" alt="Como obter hierarquia de valores no Azure SQL | SQL Server" title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como criar uma hierarquia organizacional da empresa utilizando o banco de dados SQL do Azure para exibir em visuais do Power BI
 

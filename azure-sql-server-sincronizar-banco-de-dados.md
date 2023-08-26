@@ -1,6 +1,6 @@
 ## Como sincronizar esquema e dados entre bancos de dados no Azure SQL  
 
-<img src="https://fabioms.com.br//uploads/youtube/pi921F8QkDA.png" alt="Como sincronizar esquema e dados entre bancos de dados no Azure SQL  " title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide111.png" alt="Como sincronizar esquema e dados entre bancos de dados no Azure SQL  " title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como sincronizar o banco de dados SQL do Azure, para facilmente manter a estrutura do esquema, e os dados inseridos das tabelas, iguais entre instâncias diferentes do Servidor SQL.
 

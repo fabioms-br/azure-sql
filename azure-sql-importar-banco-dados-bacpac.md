@@ -1,6 +1,6 @@
 ## Importar Banco de Dados com Arquivos BacPac no Azure SQL
 
-<img src="https://fabioms.com.br//uploads/youtube/5LfCUd9JxcU.png" alt="Importar Banco de Dados com Arquivos BacPac no Azure SQL" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide105.png" alt="Importar Banco de Dados com Arquivos BacPac no Azure SQL" title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como importar seu banco de dados SQL do Azure utilizando o arquivo Bacpac e o Azure Data Studio.
 

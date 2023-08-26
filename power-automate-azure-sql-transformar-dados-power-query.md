@@ -1,6 +1,6 @@
 ## #062 Transformar Dados do Azure SQL utilizando Power Query do Power Automate
 
-<img src="https://fabioms.com.br//uploads/daily-posts/Slide62.mp4" alt="#062 Transformar Dados do Azure SQL utilizando Power Query do Power Automate" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide102.png" alt="#062 Transformar Dados do Azure SQL utilizando Power Query do Power Automate" title="Azure SQL" width="320"/>
 
 Nesse vídeo iremos conhecer como transformar os dados em formato JSON existente no Banco de Dados SQL do Azure utilizando o Power Query do Power Automate.
 

@@ -1,6 +1,6 @@
 ## Criar e Quanto Custa o Banco de Dados Azure SQL Pool Elástico
 
-<img src="https://fabioms.com.br//uploads/youtube/9tNaJRm99Bk.png" alt="Criar e Quanto Custa o Banco de Dados Azure SQL Pool Elástico" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide96.png" alt="Criar e Quanto Custa o Banco de Dados Azure SQL Pool Elástico" title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como criar e quanto custa o recurso Banco de Dados SQL do Azure com o Pool Elástico vinculado para otimizar o gerenciamento dos recursos de vários Bancos de Dados existentes.
 

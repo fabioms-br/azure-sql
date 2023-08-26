@@ -1,6 +1,6 @@
 ## Obter Anomalia de Valores no Azure SQL
 
-<img src="https://fabioms.com.br//uploads/youtube/jaWp1SIbtLM.png" alt="Obter Anomalia de Valores no Azure SQL" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide97.png" alt="Obter Anomalia de Valores no Azure SQL" title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como identificar valores numéricos com anomalias do conjunto de dados que podem comprometer os indicadores do negócio.
 

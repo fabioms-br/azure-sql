@@ -1,6 +1,6 @@
-## Migrar dados do SQL Server para Azure Sql Dabatase
+## Como migrar dados do SQL Server para Azure Sql Dabatase
 
-<img src="https://fabioms.com.br//uploads/youtube/-VBk_bu9JnM.png" alt="Migrar dados do SQL Server para Azure Sql Dabatase" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide10.png" alt="Como migrar dados do SQL Server para Azure Sql Dabatase" title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como migrar tabelas e os dados existentes no SQL Server on-premises para o Azure SQL Database utilizando o Microsoft Data Migration Assistance.
 

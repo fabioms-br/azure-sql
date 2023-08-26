@@ -1,6 +1,6 @@
 ## Obter Função NETWORKDAYS no DAX e Azure SQL
 
-<img src="https://fabioms.com.br//uploads/youtube/ZfN00oHh08s.png" alt="Obter Função NETWORKDAYS no DAX e Azure SQL" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide83.png" alt="Obter Função NETWORKDAYS no DAX e Azure SQL" title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo a função DAX NETWORKDAYS que cálcula a quantidade de dias úteis entre duas datas, e como criar uma função definida pelo usuário no Azure SQL que retorna o mesmo resultado.
 

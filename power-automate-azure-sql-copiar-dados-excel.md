@@ -1,6 +1,6 @@
-## #067 Como copiar dados do Excel para Azure SQL no Power Automate
+## Como copiar dados do Excel para Azure SQL no Power Automate
 
-<img src="https://fabioms.com.br//uploads/daily-posts/Slide67.mp4" alt="#067 Como copiar dados do Excel para Azure SQL no Power Automate" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide103.png" alt="Como copiar dados do Excel para Azure SQL no Power Automate" title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como copiar os dados de planilha eletrônica do excel no onedrive para o banco de dados Azure SQL utilizando o Power Automate.
 

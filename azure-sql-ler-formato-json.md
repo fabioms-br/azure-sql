@@ -1,6 +1,6 @@
 ## Ler Dados em Formato JSON no Azure SQL
 
-<img src="https://fabioms.com.br//uploads/youtube/nKUuHCLPAPs.png" alt="Ler Dados em Formato JSON no Azure SQL" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide101.png" alt="Ler Dados em Formato JSON no Azure SQL" title="Azure SQL" width="320"/>
 
 Apresentamos nesse vídeo como ler e manipular o conteúdo em formato JSON existente em tabela do banco de dados SQL do Azure.
 

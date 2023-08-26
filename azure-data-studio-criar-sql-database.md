@@ -1,6 +1,6 @@
-## Criar Banco de Dados Azure SQL no Azure Data Studio
+## Como criar banco de dados Azure SQL no Azure Data Studio
 
-<img src="https://fabioms.com.br/uploads/youtube/YZooc1eFBQk.png" alt="Criar Banco de Dados Azure SQL no Azure Data Studio" title="Azure SQL" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide41.png" alt="Como criar banco de dados Azure SQL no Azure Data Studio" title="Azure SQL" width="320"/>
 
 Apresentamos como podemos criar um novo Banco de dados Azure SQL utilizando Azure Data Studio, essa ferramenta tem demonstrado ser um diferencial no gerenciamento do seu SQL Server na Nuvem.
 
