@@ -63,7 +63,7 @@ Apresentamos nesse vídeo como copiar publicações da rede social Twitter e arm
 Apresentamos nesse vídeo como ler e manipular o conteúdo em formato JSON existente em tabela do banco de dados SQL do Azure.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-ler-formato-json](http://www.fabioms.com.br/?url=azure-sql-ler-formato-json)  
 
-## [14. #062 Transformar Dados do Azure SQL utilizando Power Query do Power Automate](/power-automate-azure-sql-transformar-dados-power-query.md)
+## [14. Como transformar dados do Azure SQL utilizando Power Query do Power Automate](/power-automate-azure-sql-transformar-dados-power-query.md)
 Nesse vídeo iremos conhecer como transformar os dados em formato JSON existente no Banco de Dados SQL do Azure utilizando o Power Query do Power Automate.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=power-automate-azure-sql-transformar-dados-power-query](http://www.fabioms.com.br/?url=power-automate-azure-sql-transformar-dados-power-query)  
 
@@ -102,3 +102,23 @@ Apresentamos nesse vídeo como criar tabela externa no Azure SQL, possibiltando 
 ## [23. Converter variáveis categóricas em log de eventos no Azure SQL Server ](/azure-sql-converter-variaveis-categoricas.md)
 Como converter variáveis categóricas em numéricas para desenvolver análise de dados utilizando o banco de dados SQL do Azure
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-sql-converter-variaveis-categoricas](http://www.fabioms.com.br/?url=azure-sql-converter-variaveis-categoricas)  
+
+## [24. Obter correlação entre valores no Azure SQL Server](/obter-correlacao-entre-valores-no-azure-sql-server.md)
+Conheça como calcular a correlação entre variáveis usando o SQL do Azure. Técnicas e funções essenciais para análise estatística eficiente
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=obter-correlacao-entre-valores-no-azure-sql-server](http://www.fabioms.com.br/?url=obter-correlacao-entre-valores-no-azure-sql-server)  
+
+## [25. Como armazenar histórico de alterações no Azure SQL Server](/como-armazenar-historico-de-alteracoes-no-azure-sql-server.md)
+Como criar Slowly Changing Dimension do Tipo 4 usando o Azure SQL para rastrear as alterações ocorridas em registros existentes 
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-armazenar-historico-de-alteracoes-no-azure-sql-server](http://www.fabioms.com.br/?url=como-armazenar-historico-de-alteracoes-no-azure-sql-server)  
+
+## [26. Como calcular assimetria dos valores no Azure SQL Server](/como-calcular-assimetria-dos-valores-no-azure-sql-server.md)
+Iremos conhecer como calcular a medida estatística Assimetria utilizando o Banco de dados SQL do Azure com esse vídeo.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-calcular-assimetria-dos-valores-no-azure-sql-server](http://www.fabioms.com.br/?url=como-calcular-assimetria-dos-valores-no-azure-sql-server)  
+
+## [27. Como calcular rentabilidade de renda fixa no Azure SQL Server](/como-calcular-rentabilidade-de-renda-fixa-no-azure-sql-server.md)
+Como calcular a rentabilidade de investimentos usando juros compostos utilizando Azure SQL Server para realizar cálculos financeiros
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-calcular-rentabilidade-de-renda-fixa-no-azure-sql-server](http://www.fabioms.com.br/?url=como-calcular-rentabilidade-de-renda-fixa-no-azure-sql-server)  
+
+## [28. Como criar banco de dados SQL do Azure sempre gratuito](/como-criar-banco-de-dados-sql-do-azure-sempre-gratuito.md)
+Como criar o recurso banco de dados SQL do Azure gratuitamente para sempre, com a nova oferta em preview da Microsoft
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-criar-banco-de-dados-sql-do-azure-sempre-gratuito](http://www.fabioms.com.br/?url=como-criar-banco-de-dados-sql-do-azure-sempre-gratuito)  
